@@ -1,6 +1,3 @@
-first line on monday<<<<<<< Updated upstream
-first line on monday
-=======
 first line on monday
 second line
 fourh line
@@ -13,4 +10,4 @@ cd git-sample-project
 
 # Initialize the Git repository
 git init
->>>>>>> Stashed changes
+
