@@ -1,4 +1,12 @@
 first line on monday
 second line
 fourh line
-third line
+third linethird line
+# Create a new directory for the project
+mkdir git-sample-project
+
+# Navigate into the new directory
+cd git-sample-project
+
+# Initialize the Git repository
+git init
